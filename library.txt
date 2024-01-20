@@ -1,0 +1,6 @@
+streamlit
+PIL
+tensorflow
+numpy
+os
+tensorflow.keras.models
